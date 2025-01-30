@@ -8,7 +8,7 @@ fi
 
 # Actualizar el sistema
 echo "Actualizando los paquetes del sistema..."
-apt-get update -y
+apt-get update -y 
 
 # Instalar paquetes necesarios para permitir que apt utilice repositorios a través de HTTPS
 echo "Instalando paquetes necesarios..."
