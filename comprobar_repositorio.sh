@@ -38,8 +38,4 @@ resultado_sourceslist_d=$?
 echo "Resultado de comprobar_sourceslist: $resultado_sourceslist"
 echo "Resultado de comprobar_carpeta_sourceslist_d: $resultado_sourceslist_d"
 
-# Hacer commit en GitHub
-git status
-git add *
-git commit -m "modificación nombre apellido"
-git push
+
